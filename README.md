@@ -40,5 +40,10 @@ Before using Passwordsmith:
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/mohhmdsinann/Passwordsmith.git
 cd Passwordsmith
+chmod +x install.sh
+bash install.sh
+chmod +x Passwordsmith.sh
+bash Passwordsmith.sh
+
