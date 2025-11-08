@@ -1,6 +1,6 @@
 # Passwordsmith — Interactive Wordlist Generator
 
-! [Passwordsmith Banner](ascii/Passwordsmith.txt)
+![Passwordsmith Banner](ascii/Passwordsmith.txt)
 
 ## Overview
 
@@ -40,7 +40,5 @@ Before using Passwordsmith:
 Clone the repository:
 
 ```bash
-git clone git clone https://github.com/mohhmdsinann/Passwordsmith.git
+git clone <YOUR_GITHUB_REPO_URL>
 cd Passwordsmith
-bash install.sh
-bash Passwordsmith.sh
